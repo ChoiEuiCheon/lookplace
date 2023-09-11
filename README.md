@@ -63,13 +63,12 @@
 
 ## 2) ERD / 테이블 정의서
 <br>
-
-![](https://velog.velcdn.com/images/dbsgpwl/post/2a8e8b54-d822-4b62-a0b9-a073f83b30a3/image.png)
+![erd](https://github.com/ChoiEuiCheon/lookplace/assets/103105033/f252346c-1efb-49dc-aa66-053db4a24e59)
 
 <br>
 
 ## 3) UseCaseDiagram
-![](https://velog.velcdn.com/images/dbsgpwl/post/96432a23-2395-4fff-b916-8db483daf794/image.png)
+![usecase](https://github.com/ChoiEuiCheon/lookplace/assets/103105033/2869cb17-eae9-4bee-9f03-e880b3dc97c4)
 
 
 <br>
@@ -78,40 +77,40 @@
 <br>
 🪄 메인 화면
 
-![image](https://user-images.githubusercontent.com/103105338/192481939-f0969acf-31f2-456f-ab3b-a228ba364ef9.png)
+![rs1](https://github.com/ChoiEuiCheon/lookplace/assets/103105033/7b36b13d-a4f6-4208-9105-7ae13fccf77f)
 🪄 여행지도 화면
-![image](https://velog.velcdn.com/images/dbsgpwl/post/47b2ff69-8100-4b57-b5b3-f39cb420e595/image.png)
+![rs2](https://github.com/ChoiEuiCheon/lookplace/assets/103105033/8d0b3c10-4002-4025-acaf-131f245476d9)
 🪄 멤버 서비스 화면
-![](https://velog.velcdn.com/images/dbsgpwl/post/37243cee-e190-4c57-a430-d7d522e244e3/image.png)
+![rs3](https://github.com/ChoiEuiCheon/lookplace/assets/103105033/eb739d79-bc1d-44d3-9dec-f2bad557a517)
 
-![](https://velog.velcdn.com/images/dbsgpwl/post/051590bf-718a-4ce0-b0d6-e7ee0f4bf73d/image.png)
+![rs4](https://github.com/ChoiEuiCheon/lookplace/assets/103105033/545dfb2b-82ee-401e-8399-1a6c1d6239b0)
 
-![](https://velog.velcdn.com/images/dbsgpwl/post/9d425372-2999-4fa1-b79c-df8730194c13/image.png)
+![rs5](https://github.com/ChoiEuiCheon/lookplace/assets/103105033/7d3a94f7-e387-441f-8c26-9675fe0c4172)
 
-![](https://velog.velcdn.com/images/dbsgpwl/post/e1166f28-a8cb-4f50-b9da-3dc42efc1ee0/image.png)
+![rs6](https://github.com/ChoiEuiCheon/lookplace/assets/103105033/1cd844be-05d7-4cfd-84a9-5dbd47422c18)
 
-![](https://velog.velcdn.com/images/dbsgpwl/post/9c4ea889-7458-4518-8230-478c60f1f8df/image.png)
+![rs7](https://github.com/ChoiEuiCheon/lookplace/assets/103105033/e2c0a2a4-81a1-4692-875f-b24b6fe096cc)
 
 🪄 인기 지역 화면
-![](https://velog.velcdn.com/images/dbsgpwl/post/8af69fba-0caa-4743-9f03-0c6e73e0a7d9/image.png)
+![rs8](https://github.com/ChoiEuiCheon/lookplace/assets/103105033/e39ce2c4-e8a3-4bcd-9d3c-cc4b974362ed)
 
-![](https://velog.velcdn.com/images/dbsgpwl/post/96517728-e30b-4774-92b9-c91f95a21d04/image.png)
+![rs9](https://github.com/ChoiEuiCheon/lookplace/assets/103105033/64f8f090-e60d-4a1b-a0fc-02f86ea26909)
 
 🪄 지역 상세 화면
-![](https://velog.velcdn.com/images/dbsgpwl/post/92e98b49-6658-41bd-a560-ba7be07d0d19/image.png)
+![rs10](https://github.com/ChoiEuiCheon/lookplace/assets/103105033/f09dc9be-801c-400c-9de5-817468e29cf5)
 
 🪄 게시판 화면
-![](https://velog.velcdn.com/images/dbsgpwl/post/082508a3-fb3a-427f-ab29-8baa8565f835/image.png)
+![rs11](https://github.com/ChoiEuiCheon/lookplace/assets/103105033/1556d725-357c-4fbc-9e99-450805f68290)
 
-![](https://velog.velcdn.com/images/dbsgpwl/post/2ee715e9-46a3-4771-a6ac-8809b0341280/image.png)
+![rs12](https://github.com/ChoiEuiCheon/lookplace/assets/103105033/87ced1d8-2a93-4c62-a1a3-7de52f81bb91)
 
-![](https://velog.velcdn.com/images/dbsgpwl/post/5225b7d6-619a-4b3b-b7a5-384562b316b1/image.png)
+![rs13](https://github.com/ChoiEuiCheon/lookplace/assets/103105033/3093ecdb-c877-42db-b681-ece1902c695c)
 
 
 🪄 게시판 상세글 화면
-![](https://velog.velcdn.com/images/dbsgpwl/post/4a724b00-8449-43e0-89c0-9bb31e1ce69a/image.png)
+![rs14](https://github.com/ChoiEuiCheon/lookplace/assets/103105033/0d6e701d-4eaa-4cb4-9c46-d45b3f2cad4e)
 
-![](https://velog.velcdn.com/images/dbsgpwl/post/f52d9c18-ef6a-455e-9205-3a652594c5fe/image.png)
+![rs15](https://github.com/ChoiEuiCheon/lookplace/assets/103105033/49c1c607-0a9b-45c5-b5af-fcd8a5b5ab94)
 
 <br>
 
