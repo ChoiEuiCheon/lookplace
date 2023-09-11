@@ -63,6 +63,7 @@
 
 ## 2) ERD / 테이블 정의서
 <br>
+
 ![erd](https://github.com/ChoiEuiCheon/lookplace/assets/103105033/f252346c-1efb-49dc-aa66-053db4a24e59)
 
 <br>
